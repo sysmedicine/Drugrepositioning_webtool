@@ -1,0 +1,7 @@
+Sample_ID	Group	Organism	Cell_line	Cell_type	Treatment	Instrument_model	Single_end or paired_end
+Sample_1	Control	Human species	A549	Lung carcinoma epithelial cells	Control	Illumina HiSeq 2500	paired_end
+Sample_2	Control	Human species	A549	Lung carcinoma epithelial cells	Control	Illumina HiSeq 2501	paired_end
+Sample_3	Control	Human species	A549	Lung carcinoma epithelial cells	Control	Illumina HiSeq 2502	paired_end
+Sample_4	MCM6 knockdown	Human species	A549	Lung carcinoma epithelial cells	MCM6 shRNA knockdown	Illumina HiSeq 2503	paired_end
+Sample_5	MCM6 knockdown	Human species	A549	Lung carcinoma epithelial cells	MCM6 shRNA knockdown	Illumina HiSeq 2504	paired_end
+Sample_6	MCM6 knockdown	Human species	A549	Lung carcinoma epithelial cells	MCM6 shRNA knockdown	Illumina HiSeq 2505	paired_end
